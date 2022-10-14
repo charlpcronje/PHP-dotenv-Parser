@@ -1,4 +1,4 @@
-# PHP-dotenv-Parser
+# PHP DotEnv Parser
 
 ## Usage
 
